@@ -17,6 +17,7 @@ MENTOR:NEELA SANTOSH
 
 ------
 **OUTPUT**:
+![Image](https://github.com/user-attachments/assets/2ae8e66a-36cf-41c5-890f-e43269ab5689)
 
 -----
 Automated Report Generation refers to the use of software tools, algorithms, and systems to create reports with minimal or no human intervention. These systems pull data from various sources, process it, and present it in a structured, readable format such as PDFs, dashboards, or visual presentations. This technology is widely adopted in industries like finance, healthcare, business intelligence, and marketing due to its efficiency, accuracy, and scalability.
@@ -78,6 +79,6 @@ Automated report generation is transforming how organizations make decisions by 
 
 For any questions or feedback, feel free to reach out to:
 
-GUMREDDY LAKSHMI NARAYANA REDDY
+A.GANESH
 Company: CODTECH IT SOLUTIONS
-Email: gumreddylakshminarayana@karunya.edu.in
+Email: andraganesh@karunya.edu.in
